@@ -10,8 +10,12 @@
 // Reference:
 // Levenshtein demo
 // http://www.let.rug.nl/kleiweg/lev/
-// Minimum edit distance:
+// Minimum edit distance
 // http://www.stanford.edu/class/cs124/lec/med.pdf
+// Sequence Alignment
+// http://math.mit.edu/classes/18.417/Slides/alignment.pdf
+// Fast and Easy Levenshtein distance using a Trie
+// http://stevehanov.ca/blog/index.php?id=114
 //
 // Sample usage:
 // const char str1[] = "*intention";
